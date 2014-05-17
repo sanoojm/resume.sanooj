@@ -1,4 +1,4 @@
 Resume of Sanooj Mananghat
 -----------------------------
 
-My resume of in Markdown format.
+My resume in Markdown format.
